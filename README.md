@@ -52,5 +52,4 @@ class TheCart(object):
  Added Class Item with unit_price and quantity as its attributes.
 Class TheCart has-a relationship with Item
 
-This is a basic implementation of the test case testing for equality.
 
