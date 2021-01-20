@@ -10,6 +10,8 @@ The following sequence is based on Kent Beck's book: [Test-Driven Development by
   4. Run tests
   5. Refactor code
 
+### Implementing the steps from Mr Beck's book using an example of a Shopping cart
+
 ## Code Example
 
   1. Add a test
