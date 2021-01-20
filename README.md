@@ -53,5 +53,6 @@ class TheCart(object):
   5. Refactor code
  Added Class Item with unit_price and quantity as its attributes.
 Class TheCart has-a relationship with Item
-![Diagram](tdd-with-python/diagram1.png)
+
+![Diagram](diagram1.png)
 
