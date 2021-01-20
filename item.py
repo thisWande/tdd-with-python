@@ -2,6 +2,6 @@ from dataclasses import dataclass
 
 
 @dataclass
-class item(object):
+class Item(object):
     unit_price: float
     quantity: 1
