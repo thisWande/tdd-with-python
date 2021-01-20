@@ -1,3 +1,5 @@
+# Author: Wande
+
 import unittest
 from shopping_cart_model import TheCart
 from item import Item

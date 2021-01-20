@@ -1,3 +1,5 @@
+# Author: Wande
+
 from dataclasses import dataclass
 from functools import reduce
 from typing import List
